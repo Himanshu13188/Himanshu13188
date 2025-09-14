@@ -8,13 +8,33 @@ I'm using this GitHub profile to document my learning journey and share hands-on
 
 📗 Excel
 
-🧮 SQL (Specialized)
+🧮 Specialization in SQL
 
 📊 Power BI 
 
 🐍 Python for Data Analysis 
 
-📅 This Week I’m Focusing On:
-This repository contains my ongoing and upcoming projects in Data Analytics (Power BI, SQL, Python). Currently working on Blinkit Dashboard project. Final version with .pbix files and datasets will be uploaded soon.
+ Projects
+🔹 Tata Data Visualization Virtual Experience Program (Forage)  
+- Completed an **industry-simulated project** designed by Tata Group  
+- Built dashboards to analyze customer and revenue datasets  
+- Answered business-critical questions with clear and concise visual storytelling  
+- Extracted insights on **business growth, customer engagement, and revenue optimization**  
+- Strengthened expertise in **data storytelling, dashboarding, and analytics communication
+  
+🔹 Blinkit Sales & Customer Insights Dashboard (Ongoing)
+-Developing an interactive dashboard using SQL, Power BI, and Excel to analyze Blinkit’s grocery sales and customer behavior.
+-Currently integrating Python (Pandas, Matplotlib) for advanced analysis and automation.
+
+
+
+🔹 Certifications & Virtual Experience
+
+- 🏅 [Process Data from Dirty to Clean](https://coursera.org/share/ff97b5ca27fced38721e1d4176ee6f9f) – Google / Coursera  
+  *Completed August 2025 – Learned to clean and transform messy datasets, ensure data integrity, apply SQL functions, and validate data cleaning results.*  
+
+- 🏅 Tata Data Visualization Virtual Experience Program – Forage  
+  *Gained hands-on exposure to business problem solving using analytics. Built dashboards, answered business questions, and developed data-driven insights in visualization.*  
+
 
 
