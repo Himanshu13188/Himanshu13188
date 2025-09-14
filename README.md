@@ -6,20 +6,15 @@ I’m Himanshu, currently pursuing my BCA and learning the amazing world of Data
 
 I'm using this GitHub profile to document my learning journey and share hands-on projects I build along the way!
 
-🧠 Currently Learning:
-📗 Excel Dashboards
+📗 Excel
 
-🧮 SQL Revision
+🧮 SQL (Specialized)
 
-📊 Power BI (Coming Soon)
+📊 Power BI 
 
-🐍 Python for Data Analysis (Coming Soon)
+🐍 Python for Data Analysis 
 
 📅 This Week I’m Focusing On:
-Practicing Excel dashboard layouts
-
-Solving queries using SQL
-
-Learning data cleaning steps
+This repository contains my ongoing and upcoming projects in Data Analytics (Power BI, SQL, Python). Currently working on Blinkit Dashboard project. Final version with .pbix files and datasets will be uploaded soon.
 
 
