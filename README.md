@@ -1,4 +1,4 @@
-Hey!
+# Hey there😄!
 🙌 Happy to see you here!
 I’m Himanshu, currently pursuing my BCA and learning the amazing world of Data Analytics. I’ve recently completed an Excel course and am now working on dashboard projects to visualize insights. I have basic knowledge of SQL, which I'm currently revising — and soon I'll be exploring Power BI and Python to take my skills to the next level.
 
