@@ -32,7 +32,7 @@ I'm using this GitHub profile to document my learning journey and share hands-on
 
 - 🏅 [Process Data from Dirty to Clean](https://coursera.org/share/ff97b5ca27fced38721e1d4176ee6f9f) – Google / Coursera  
   *Completed August 2025 – Learned to clean and transform messy datasets, ensure data integrity, apply SQL functions, and validate data cleaning results.*
-  ![](https://github.com/Himanshu13188/Himanshu13188/blob/main/Coursera.pdf) 
+  ![Certificate](https://github.com/Himanshu13188/Himanshu13188/blob/main/Coursera.pdf) 
 
 - 🏅 Tata Data Visualization Virtual Experience Program – Forage  
   *Gained hands-on exposure to business problem solving using analytics. Built dashboards, answered business questions, and developed data-driven insights in visualization.*  
