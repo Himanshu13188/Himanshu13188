@@ -36,7 +36,7 @@ I'm using this GitHub profile to document my learning journey and share hands-on
 
 - 🏅 Tata Data Visualization Virtual Experience Program – Forage  
   *Gained hands-on exposure to business problem solving using analytics. Built dashboards, answered business questions, and developed data-driven insights in visualization.*
-  ![Certified :](https://github.com/Himanshu13188/Himanshu13188/blob/main/TATA%20%20Virtual%20Internship%20completion_certificate.pdf) 
+  ![Certified by :](https://github.com/Himanshu13188/Himanshu13188/blob/main/TATA%20%20Virtual%20Internship%20completion_certificate.pdf) 
 
 
 
